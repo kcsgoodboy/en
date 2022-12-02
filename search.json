@@ -4,21 +4,7 @@
     "href": "about.html",
     "title": "Chanseok Kang",
     "section": "",
-    "text": "::: {.column-page}\nI’m Research Engineer in LG Electronics. My role is to deploy energy-efficient algorithm in commercial/business product(refrigerator, washing machine, HVAC etc). Also, I have an experience on developing BSP drivers on 5G environment. I’m very interested in learning something new(AI, Embedded System, Mathematics). Especially, I enjoyed taking MOOC (Massive Open Online Course) when I have free time."
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Chanseok Kang",
-    "section": "Experience",
-    "text": "Experience\nLG Electronics | Research Engineer | Dec 2014 - present\nKorea Institute of Science and Technology (KIST) | Researcher | May 2012 - Dec 2012"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Chanseok Kang",
-    "section": "Education",
-    "text": "Education\nSeoul National University Seoul, South Korea\nM.S in Electrical Engineering and Computer Science | Mar 2013 - Feb 2015\nChung-Ang University Seoul, South Korea\nB.S in Electrical and Electronic Engineering | Mar 2006 - Feb 2013"
+    "text": "I’m Research Engineer in LG Electronics. My role is to deploy energy-efficient algorithm in commercial/business product(refrigerator, washing machine, HVAC etc). Also, I have an experience on developing BSP drivers on 5G environment. I’m very interested in learning something new(AI, Embedded System, Mathematics). Especially, I enjoyed taking MOOC (Massive Open Online Course) when I have free time.\n\n\n\n\nLG Electronics | Research Engineer | Dec 2014 - present\nKorea Institute of Science and Technology (KIST) | Researcher | May 2012 - Dec 2012\n\n\n\nSeoul National University Seoul, South Korea\nM.S in Electrical Engineering and Computer Science | Mar 2013 - Feb 2015\nChung-Ang University Seoul, South Korea\nB.S in Electrical and Electronic Engineering | Mar 2006 - Feb 2013"
   },
   {
     "objectID": "index.html",
