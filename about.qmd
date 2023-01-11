@@ -1,36 +1,42 @@
 ---
-title: "About"
-about:
-  template: jolla
-  image: image/chanseok.jpg
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
 page-layout: full
 ---
 
-@media(max-width: 991.98px){
+::: {.grid}
+
+::: {.g-col-4}
+![](image/chanseok.jpg)
+:::
+
+::: {.g-col-8}
+
+## Chanseok Kang
 
 I’m Research Engineer in LG Electronics. My role is to deploy energy-efficient algorithm in commercial/business product(refrigerator, washing machine, HVAC etc). Also, I have an experience on developing BSP drivers on 5G environment. I’m very interested in learning something new(AI, Embedded System, Mathematics). Especially, I enjoyed taking MOOC (Massive Open Online Course) when I have free time.
 
+
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+**Seoul National University** | Seoul, South Korea <br />
+M.S in Electrical Engineering and Computer Science | Mar 2013 - Feb 2015 <br />
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+- Topic: Manycore-based efficient Power Management Framework
+- Thesis: [Hierachical Power Management Framework on Manycore systems using OS Migration Techniques](https://s-space.snu.ac.kr/bitstream/10371/123113/1/000000024733.pdf)
+- Advisor: Prof. Bernhard Egger
 
-## Experience
+**Chung-Ang University** | Seoul, South Korea <br />
+B.S in Electrical and Electronics Engineering | Mar 2006 - Feb 2013 
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+## Main Experience
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+**LG Electronics** | Specialist | Dec 2014 - present
 
-}
+**Carnegie Mellon University** | Visiting Researcher | Apr 2019 - Aug 2019
+
+**Korea Institute of Science and Technology (KIST)** | Contract Researcher | Jun 2012 - Dec 2012
+
+:::
+
+:::
 
 
