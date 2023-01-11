@@ -11,10 +11,10 @@ website:
       - href: about.qmd
         text: About
       - href: publication.qmd
-        text: publication
+        text: Publication
     right: 
       - href: ../kr
-        text: kr
+        text: Kr
       - href: https://github.com/goodboychan
         icon: github
       - href: https://www.linkedin.com/in/chanseokk/

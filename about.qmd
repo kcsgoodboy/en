@@ -4,6 +4,9 @@ format:
         page-layout: full
 ---
 
+<p style="text-align: center; font-family: Brush Script MT; font-size: 1.1em">
+*In theory, there is no difference between theory and practice. In practice, there is.*
+</p>
 ::: {.grid}
 
 ::: {.g-col-4}
