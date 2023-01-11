@@ -3,12 +3,16 @@ project:
   output-dir: _site
 
 website:
-  title: "en"
+  title: "Chanseok Kang"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    right: 
+      - href: ../kr
+        text: kr
 
 format:
   html:
