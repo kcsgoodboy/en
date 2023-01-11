@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Chanseok Kang"
+  page-footer: "Copyright 2023, Chanseok Kang" 
   navbar:
     left:
       - href: index.qmd

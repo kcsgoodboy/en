@@ -7,14 +7,16 @@ format:
 <p style="text-align: center; font-family: Brush Script MT; font-size: 1.1em">
 *In theory, there is no difference between theory and practice. In practice, there is.*
 </p>
+
 ::: {.grid}
 
 ::: {.g-col-4}
 ![](image/chanseok.jpg)
 
 <p style="text-align: center;">
-    <a href="https://github.com/goodboychan"> <button type="button" class="btn btn-primary me-md-2 btn-sm">github</button></a>
-    <a href="[about-es.html](https://www.linkedin.com/in/chanseokk/)"><button type="button" class="btn btn-primary me-md-2 btn-sm">linkedin</button></a>
+    <a href="https://github.com/goodboychan"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Github</button></a>
+    <a href="[about-es.html](https://www.linkedin.com/in/chanseokk/)"><button type="button" class="btn btn-primary me-md-2 btn-sm">Linkedin</button></a>
+    <a href="docs/resume_chanseok_20200804.pdf"><button type="button" class="btn btn-primary me-md-2 btn-sm">CV</button></a>
 </p>
 
 :::
