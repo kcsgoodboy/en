@@ -1,6 +1,10 @@
 ---
 title: "Listing Example"
 listing:
+    categories: true
     contents: posts
     type: default
+    sort:
+    - "date"
+    - "title desc"
 ---

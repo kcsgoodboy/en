@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -151,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Coursera">Coursera <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DeepLearning.AI">DeepLearning.AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Python">Python <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -179,6 +179,13 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1673429200493" data-listing-reading-time-sort="3.83">
+<div class="thumbnail">
+<a href="./posts/EDA_Springleaf_screencast.html">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href="./posts/EDA_Springleaf_screencast.html"></a></p>
+</div>
 <div class="body">
 <a href="./posts/EDA_Springleaf_screencast.html">
 <h3 class="no-anchor listing-title">
@@ -194,6 +201,44 @@ This is a notebook, used in the screencast video. Note, that the data files are 
 </div>
 <div class="metadata">
 <a href="./posts/EDA_Springleaf_screencast.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Python,Coursera,DeepLearning.AI" data-listing-file-modified-sort="1673430567627" data-listing-reading-time-sort="7.075">
+<div class="thumbnail">
+<p><a href="./posts/Logistic-Regression-with-a-Neural-Network.html"> <img src="./posts/images/LogReg_kiank.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/Logistic-Regression-with-a-Neural-Network.html">
+<h3 class="no-anchor listing-title">
+Logistic Regression with a Neural Network mindset
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Python'); return false;">
+Python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Coursera'); return false;">
+Coursera
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('DeepLearning.AI'); return false;">
+DeepLearning.AI
+</div>
+</div>
+<a href="./posts/Logistic-Regression-with-a-Neural-Network.html">
+<div class="listing-description">
+In this post, we will build a…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/Logistic-Regression-with-a-Neural-Network.html">
+<div class="listing-author">
+Chanseok Kang
+</div>
+</a>
 </div>
 </div>
 </div>
