@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "en",
-    "section": "",
-    "text": "@media(max-width: 991.98px){\nI’m Research Engineer in LG Electronics. My role is to deploy energy-efficient algorithm in commercial/business product(refrigerator, washing machine, HVAC etc). Also, I have an experience on developing BSP drivers on 5G environment. I’m very interested in learning something new(AI, Embedded System, Mathematics). Especially, I enjoyed taking MOOC (Massive Open Online Course) when I have free time."
-  },
-  {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "en",
@@ -18,7 +11,7 @@
     "href": "about.html#experience",
     "title": "en",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\n}"
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018:::"
   },
   {
     "objectID": "index.html",
