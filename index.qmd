@@ -1,9 +1,10 @@
 ---
-title: "Listing Example"
 listing:
-    categories: true
+    categories: 'cloud'
     contents: posts
     type: default
+    max-description-length: 250
+    date-format: medium
     sort:
     - "date"
     - "title desc"

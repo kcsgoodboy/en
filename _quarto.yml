@@ -25,6 +25,8 @@ website:
 
 format:
   html:
+    smooth-scroll: true
+    page-layout: full
     theme: cosmo
     css: styles.css
     toc: true
