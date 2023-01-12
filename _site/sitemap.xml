@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kcsgoodboy.github.io/en/posts/Distributions.html</loc>
-    <lastmod>2023-01-12T08:41:53.383Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kcsgoodboy.github.io/en/posts/Logistic-Regression-with-a-Neural-Network.html</loc>
-    <lastmod>2023-01-12T08:41:54.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kcsgoodboy.github.io/en/publication.html</loc>
-    <lastmod>2023-01-12T08:41:55.227Z</lastmod>
-  </url>
-  <url>
     <loc>https://kcsgoodboy.github.io/en/about.html</loc>
-    <lastmod>2023-01-12T08:41:56.087Z</lastmod>
+    <lastmod>2023-01-12T15:03:49.084Z</lastmod>
   </url>
   <url>
     <loc>https://kcsgoodboy.github.io/en/index.html</loc>
-    <lastmod>2023-01-12T08:41:56.323Z</lastmod>
+    <lastmod>2023-01-12T15:03:49.462Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kcsgoodboy.github.io/en/posts/Distributions.html</loc>
+    <lastmod>2023-01-12T15:03:50.682Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kcsgoodboy.github.io/en/posts/Logistic-Regression-with-a-Neural-Network.html</loc>
+    <lastmod>2023-01-12T15:03:51.913Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kcsgoodboy.github.io/en/publication.html</loc>
+    <lastmod>2023-01-12T15:03:52.158Z</lastmod>
   </url>
 </urlset>

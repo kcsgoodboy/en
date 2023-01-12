@@ -1,5 +1,6 @@
 ---
-title: "Chanseok Kang"
+title: "Publication"
+comments: false
 ---
 
 This is a Quarto website.

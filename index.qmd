@@ -1,13 +1,11 @@
 ---
 listing:
     categories: cloud
-    contents: posts
+    contents: posts/
     type: default
     max-description-length: 250
     date-format: medium
-    sort:
-    - "date"
-    - "title desc"
+    sort: "date desc"
 
 comments: false
 ---
