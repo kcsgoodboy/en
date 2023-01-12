@@ -4,14 +4,7 @@
     "href": "posts/Logistic-Regression-with-a-Neural-Network.html",
     "title": "Logistic Regression with a Neural Network mindset",
     "section": "",
-    "text": "{% include notebook_colab_link.html %}"
-  },
-  {
-    "objectID": "posts/Logistic-Regression-with-a-Neural-Network.html#tldr",
-    "href": "posts/Logistic-Regression-with-a-Neural-Network.html#tldr",
-    "title": "Logistic Regression with a Neural Network mindset",
-    "section": "TL;DR",
-    "text": "TL;DR\n\nIn this post, we will build a logistic regression classifier to recognize cats. This is the summary of lecture “Neural Networks and Deep Learning” from DeepLearning.AI. (slightly modified from original assignment)"
+    "text": "In this post, we will build a logistic regression classifier to recognize cats. This is the summary of lecture “Neural Networks and Deep Learning” from DeepLearning.AI. (slightly modified from original assignment)"
   },
   {
     "objectID": "posts/Logistic-Regression-with-a-Neural-Network.html#packages",
