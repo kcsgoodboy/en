@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kcsgoodboy.github.io/en/about.html</loc>
-    <lastmod>2023-01-11T15:53:14.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kcsgoodboy.github.io/en/index.html</loc>
-    <lastmod>2023-01-11T15:53:14.867Z</lastmod>
+    <loc>https://kcsgoodboy.github.io/en/posts/Logistic-Regression-with-a-Neural-Network.html</loc>
+    <lastmod>2023-01-12T02:41:15.265Z</lastmod>
   </url>
   <url>
     <loc>https://kcsgoodboy.github.io/en/posts/EDA_Springleaf_screencast.html</loc>
-    <lastmod>2023-01-11T15:53:15.414Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kcsgoodboy.github.io/en/posts/Logistic-Regression-with-a-Neural-Network.html</loc>
-    <lastmod>2023-01-11T15:53:16.023Z</lastmod>
+    <lastmod>2023-01-12T02:41:15.673Z</lastmod>
   </url>
   <url>
     <loc>https://kcsgoodboy.github.io/en/publication.html</loc>
-    <lastmod>2023-01-11T15:53:16.256Z</lastmod>
+    <lastmod>2023-01-12T02:41:15.833Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kcsgoodboy.github.io/en/about.html</loc>
+    <lastmod>2023-01-12T02:41:16.037Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kcsgoodboy.github.io/en/index.html</loc>
+    <lastmod>2023-01-12T02:41:16.257Z</lastmod>
   </url>
 </urlset>
