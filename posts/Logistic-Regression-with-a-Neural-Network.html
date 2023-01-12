@@ -383,7 +383,7 @@ test_set_y shape: (1, 50)</code></pre>
 <h2 class="anchored" data-anchor-id="general-architecture-of-the-learning-algorithm">General Architecture of the learning algorithm</h2>
 <p>It’s time to design a simple algorithm to distinguish cat images from non-cat images.</p>
 <p>You will build a Logistic Regression, using a Neural Network mindset. The following Figure explains why <strong>Logistic Regression is actually a very simple Neural Network!</strong></p>
-<p><img src="image/LogReg_kiank.png" style="width:650px;height:400px;"></p>
+<p><img src="images/LogReg_kiank.png" style="width:650px;height:400px;"></p>
 <p><strong>Mathematical expression of the algorithm</strong>:</p>
 <p>For one example <span class="math inline">\(x^{(i)}\)</span>: <span class="math display">\[z^{(i)} = w^T x^{(i)} + b \tag{1}\]</span> <span class="math display">\[\hat{y}^{(i)} = a^{(i)} = sigmoid(z^{(i)})\tag{2}\]</span> <span class="math display">\[ \mathcal{L}(a^{(i)}, y^{(i)}) =  - y^{(i)}  \log(a^{(i)}) - (1-y^{(i)} )  \log(1-a^{(i)})\tag{3}\]</span></p>
 <p>The cost is then computed by summing over all training examples: <span class="math display">\[ J = \frac{1}{m} \sum_{i=1}^m \mathcal{L}(a^{(i)}, y^{(i)})\tag{6}\]</span></p>
@@ -942,6 +942,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://giscus.app/client.js" data-repo="kcsgoodboy/en" data-repo-id="" data-category="General" data-category-id="" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 <footer class="footer">
