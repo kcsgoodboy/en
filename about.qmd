@@ -14,6 +14,7 @@ format:
 ![](image/chanseok.jpg)
 
 <p style="text-align: center;">
+    <a href="mailto:kcsgoodboy@gmail.com"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Mail</button></a>
     <a href="https://github.com/goodboychan"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Github</button></a>
     <a href="https://www.linkedin.com/in/chanseokk/"><button type="button" class="btn btn-primary me-md-2 btn-sm">Linkedin</button></a>
     <a href="docs/resume_chanseok_20200804.pdf"><button type="button" class="btn btn-primary me-md-2 btn-sm">CV</button></a>
